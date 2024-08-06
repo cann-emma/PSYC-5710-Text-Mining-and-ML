@@ -1,5 +1,5 @@
 ---
-title: "OCEAN Exploratory Graph Analysis R Notebook"
+title: "O.C.E.A.N Exploratory Graph Analysis R Notebook"
 output: html_notebook
 ---
 
